@@ -1,0 +1,9 @@
+---
+title: My first git repo
+author: ariana parquette
+output: github_document
+---
+# My first Commit
+Here is some text that constitutes my first commit
+you can revisit a commit later ( snapshot)
+
